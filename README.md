@@ -131,6 +131,31 @@ This assessment demonstrates that the most dangerous security weaknesses are oft
 Even if a company has a magnetic lock, alarm system, and basic IT controls, these protections may fail if they are not supported by strong procedures, employee training, and continuous monitoring.
 
 The strongest defense is a layered security approach that combines physical controls, technical protections, and human awareness.
+## Detection & Response
+
+### Detection
+
+Security team should monitor for:
+
+- Unusual physical access patterns
+- Unknown individuals inside the office
+- Unverified external contractors
+- Suspicious login activity
+- Logins from new devices or locations
+- Access during non-working hours
+- Multiple failed login attempts
+
+### Response
+
+If suspicious activity is detected:
+
+- Immediately verify user identity
+- Lock compromised accounts
+- Terminate active sessions
+- Isolate affected systems
+- Notify security team
+- Review access logs
+- Conduct internal investigation
 
 ## Skills Demonstrated
 
