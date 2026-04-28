@@ -131,3 +131,15 @@ This assessment demonstrates that the most dangerous security weaknesses are oft
 Even if a company has a magnetic lock, alarm system, and basic IT controls, these protections may fail if they are not supported by strong procedures, employee training, and continuous monitoring.
 
 The strongest defense is a layered security approach that combines physical controls, technical protections, and human awareness.
+
+## Skills Demonstrated
+
+- Physical Security Assessment
+- Social Engineering Risk Analysis
+- Threat Modeling
+- Risk Identification
+- Security Awareness Evaluation
+- Security Recommendations Development
+
+---
+This project is created for educational purposes and demonstrates practical understanding of real-world security risks.
